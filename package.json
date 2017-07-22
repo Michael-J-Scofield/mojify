@@ -1,0 +1,28 @@
+{
+  "name": "mojify",
+  "version": "1.0.0",
+  "description": "Transform emojis into text",
+  "main": "mojify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Emojify",
+    "text",
+    "Emoji"
+  ],
+  "author": "Michael Scofield",
+  "license": "ISC",
+  "dependencies": {
+    "emojilib": "^2.2.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-J-Scofield/mojify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Michael-J-Scofield/mojify/issues"
+  },
+  "homepage": "https://github.com/Michael-J-Scofield/mojify#readme"
+}
