@@ -1,6 +1,6 @@
 {
   "name": "mojify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transform emojis into text",
   "main": "mojify.js",
   "scripts": {
