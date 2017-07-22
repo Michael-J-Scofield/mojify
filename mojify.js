@@ -124,10 +124,10 @@ const allEmoji = emojilib.lib;
         if (undefined !== process.argv[2]) {
             console.log(emoji.convert(process.argv[2]));
         } else {
-            console.error('Usage: nibba.js <string>');
+            console.error('Usage: mojify.js <string>');
         }
     } else if (undefined !== exports) {
-        exports.convert = nibba.convert;
+        exports.convert = emoji.convert;
     } else {
         console.error("¯\_(ツ)_/¯");
     }
