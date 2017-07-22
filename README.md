@@ -1,6 +1,6 @@
 # Mojify.js
 
-Convert regular text to emojis.
+Convert regular text to emojis. 👌🏻
 
 ### Installation
 ```
